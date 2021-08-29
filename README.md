@@ -37,8 +37,6 @@
 </p>
 
 <br>
-<strong>- Slower than <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a></strong>
-<br>
 <strong>- Limited format (no 4k)</strong>
 <br>
 <strong>- No download bar</strong>
