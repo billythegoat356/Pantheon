@@ -107,7 +107,7 @@ response = get(download_url).text
 response = response.split('"')
 textures = list(reversed([link for link in response if video_id in link]))
 
-download_url = textures[3]
+download_url = textures[-1]
 
 
 
