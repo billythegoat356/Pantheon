@@ -66,6 +66,7 @@ print("\n\n")
 
 video_url = input(Col.yellow+"Video url > "+Col.white)
 video_id = video_url.split("watch?v=")[-1]
+video_id = video_id.split("&")[0]
 
 print()
 
